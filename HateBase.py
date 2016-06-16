@@ -18,7 +18,7 @@ __author__ = "Andrey Ferriyan"
 __license__ = "MIT"
 __version__ = "1.0"
 __maintainer__ = "Andrey Ferriyan"
-__email__ = "andrey.ferriyan@gmail.com"
+__email__ = "andrey.silversburg@gmail.com"
 __status__ = "Development"
 
 
