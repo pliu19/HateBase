@@ -1,6 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: ASCII -*-
-import urllib2
+import urllib
 
 """HateBase Wrapper v3.0 for hatebase.org API class
 
@@ -40,7 +39,7 @@ class HateBaseAPI(object):
         secondary = "%7C"
         pair = []
 
-        for key, value in parameters.iteritems():
+        for key, value in parameters.items():
             pair.append(key + primary + value)
 
         return self.url + pair[0] + secondary + pair[1]

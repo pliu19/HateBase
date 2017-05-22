@@ -1,3 +1,5 @@
+Clone From https://github.com/andreyferriyan/HateBase, which supports Python 2. This repository supports Python 3. 
+
 Python HateBase Wrapper
 ===========
 
