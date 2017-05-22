@@ -9,7 +9,7 @@ Clone From https://github.com/andreyferriyan/HateBase, which supports Python 2. 
 
 1. Obtain a [hatebase API key](http://www.hatebase.org/request_api)
 2. Go ahead and try it out. The following python script or command can be used as an example
-3. In order to get all the vocabulary, simply chage 'page' in 'filters' dict. 
+3. In order to get all the vocabulary, simply change 'page' number in 'filters' since each query only returns 100 results.  
 
 ```
 >>> from HateBase import HateBaseAPI
